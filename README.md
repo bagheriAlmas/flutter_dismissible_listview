@@ -4,4 +4,4 @@ Listview with Dismiss.
 
 ## Output
 
-<img src = "1.jpg" />
+<img src = "img1.png" />      <img src = "img2.png" />
